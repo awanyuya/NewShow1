@@ -22,8 +22,7 @@
 </p>
 
 
-Telegram Bot to store Posts and Documents and it can Access by Special Links.
-I Guess This Will Be Usefull For Many People.....😇. 
+Telegram Bot to store Posts and Documents and it can Access by Special Links. 
 
 ##
 
@@ -107,6 +106,7 @@ Report Bugs, Give Feature Requests There..
 
 ### Credits
 
+- Thanks to CodeXBotz Team for making this amazing bot, original bot-----[https://github.com/CodeXBotz/File-Sharing-Bot]
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
 - Our Support Group Members
 
