@@ -47,7 +47,7 @@ Telegram Bot to store Posts and Documents and it can Access by Special Links.
 #### Deploy in your VPS
 ````bash
 git clone https://github.com/Hijikita-san/New-shows_in_480p-bot
-cd File-Sharing-Bot
+cd New-shows_in_480p-bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
