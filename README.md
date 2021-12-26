@@ -107,8 +107,7 @@ Report Bugs, Give Feature Requests There..
 ### Credits
 
 - Thanks to CodeXBotz Team for making this amazing bot, original bot-----[https://github.com/CodeXBotz/File-Sharing-Bot]
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
+- Join our Channel if you like this repo https://t.me/shows_in_480p
 
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
@@ -118,8 +117,3 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
-
-##
-
-   **Star this Repo if you Liked it ⭐⭐⭐**
-
